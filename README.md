@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">
-      <img src="https://github.com/SheriefMohamed/MedMate/assets/78177060/9683bfb8-77b5-4b7f-9073-4f6190114d76" alt="MedMate Logo" width="200">
+      <img src="https://github.com/SheriefMohamed/MedMate/assets/78177060/c0fbef95-a233-4cf0-aa0d-b96e4da72270" alt="MedMate Logo" width="200">
   </p>MedMate
   <h3 align="center">Medicine reminder app for elder people for Graduation Project.</h3>
 </h1>
